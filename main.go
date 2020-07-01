@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	deck "go-excercises/playing-cards/deck-package"
+	"go-excercises/01playing-cards/deck-package"
 
 	"strings"
 )
